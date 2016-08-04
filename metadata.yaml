@@ -1,0 +1,27 @@
+_repo: The-Golden-Fleece-and-the-Heroes-Who-Lived-Before-Achilles_2395
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colum, Padraic
+    alias: Collumb, Patrick
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '893'
+    url: http://www.gutenberg.org/2009/agents/893
+    wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
+description: ''
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Greek -- Juvenile literature'
+- !lcc 'BL'
+- !lcsh 'Argonauts (Greek mythology) -- Juvenile literature'
+- GITenberg
+title: The Golden Fleece and the Heroes Who Lived Before Achilles
+url: http://www.gutenberg.org/ebooks/2395
